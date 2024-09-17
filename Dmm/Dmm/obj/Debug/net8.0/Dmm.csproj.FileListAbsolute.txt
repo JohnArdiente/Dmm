@@ -1,0 +1,1463 @@
+C:\Projects\Dmm\Dmm\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\Dmm\Dmm\bin\Debug\net8.0\appsettings.json
+C:\Projects\Dmm\Dmm\bin\Debug\net8.0\Dmm.staticwebassets.runtime.json
+C:\Projects\Dmm\Dmm\bin\Debug\net8.0\Dmm.exe
+C:\Projects\Dmm\Dmm\bin\Debug\net8.0\Dmm.deps.json
+C:\Projects\Dmm\Dmm\bin\Debug\net8.0\Dmm.runtimeconfig.json
+C:\Projects\Dmm\Dmm\bin\Debug\net8.0\Dmm.dll
+C:\Projects\Dmm\Dmm\bin\Debug\net8.0\Dmm.pdb
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\Dmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfoInputs.cache
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfo.cs
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.CoreCompileInputs.cache
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\Dmm.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cache
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cs
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\Dmm.sourcelink.json
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.Dmm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.build.Dmm.props
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dmm.props
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dmm.props
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\bundle\Dmm.styles.css
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\projectbundle\Dmm.bundle.scp.css
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\Dmm.dll
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\refint\Dmm.dll
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\Dmm.pdb
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\Dmm.genruntimeconfig.cache
+C:\Projects\Dmm\Dmm\obj\Debug\net8.0\ref\Dmm.dll
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\bin\Debug\net8.0\appsettings.json
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\bin\Debug\net8.0\Dmm.staticwebassets.runtime.json
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\bin\Debug\net8.0\Dmm.exe
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\bin\Debug\net8.0\Dmm.deps.json
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\bin\Debug\net8.0\Dmm.runtimeconfig.json
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\bin\Debug\net8.0\Dmm.dll
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\bin\Debug\net8.0\Dmm.pdb
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\Dmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfoInputs.cache
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfo.cs
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\Dmm.csproj.CoreCompileInputs.cache
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\Dmm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cache
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cs
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\Dmm.sourcelink.json
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.Dmm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.build.Dmm.props
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dmm.props
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dmm.props
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\scopedcss\bundle\Dmm.styles.css
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\scopedcss\projectbundle\Dmm.bundle.scp.css
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\Dmm.dll
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\refint\Dmm.dll
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\Dmm.pdb
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\Dmm.genruntimeconfig.cache
+C:\Users\Carlo Bolante\source\repos\DMM\Dmm\obj\Debug\net8.0\ref\Dmm.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\appsettings.json
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Dmm.staticwebassets.runtime.json
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Dmm.exe
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Dmm.deps.json
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Dmm.runtimeconfig.json
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Dmm.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Dmm.pdb
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\Dmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfoInputs.cache
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfo.cs
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\Dmm.csproj.CoreCompileInputs.cache
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\Dmm.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cache
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cs
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\Dmm.sourcelink.json
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.Dmm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.build.Dmm.props
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dmm.props
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dmm.props
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\scopedcss\bundle\Dmm.styles.css
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\scopedcss\projectbundle\Dmm.bundle.scp.css
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\Dmm.dll
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\refint\Dmm.dll
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\Dmm.pdb
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\Dmm.genruntimeconfig.cache
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\ref\Dmm.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Azure.Core.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\Dmm.csproj.AssemblyReference.cache
+C:\Projects\Backup\DMM\Dmm\obj\Debug\net8.0\Dmm.csproj.Up2Date
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Humanizer.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\System.Text.Json.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\DMM\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\appsettings.json
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Dmm.staticwebassets.runtime.json
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Dmm.exe
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Dmm.deps.json
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Dmm.runtimeconfig.json
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Dmm.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Dmm.pdb
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Azure.Core.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Humanizer.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\Dmm.csproj.AssemblyReference.cache
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\Dmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfoInputs.cache
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfo.cs
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\Dmm.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\Dmm.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cache
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cs
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\Dmm.sourcelink.json
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.Dmm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.build.Dmm.props
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dmm.props
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dmm.props
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\scopedcss\bundle\Dmm.styles.css
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\scopedcss\projectbundle\Dmm.bundle.scp.css
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\Dmm.csproj.Up2Date
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\Dmm.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\refint\Dmm.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\Dmm.pdb
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\Dmm.genruntimeconfig.cache
+C:\Projects\DotNet\Derby\DMM\Dmm\obj\Debug\net8.0\ref\Dmm.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\EPPlus.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\DotNet\Derby\DMM\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\appsettings.json
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.staticwebassets.runtime.json
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.exe
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.deps.json
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.runtimeconfig.json
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.pdb
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Azure.Core.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\EPPlus.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Humanizer.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.AssemblyReference.cache
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfoInputs.cache
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfo.cs
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cache
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cs
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.sourcelink.json
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.Dmm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.build.Dmm.props
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dmm.props
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dmm.props
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\bundle\Dmm.styles.css
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\projectbundle\Dmm.bundle.scp.css
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.Up2Date
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\refint\Dmm.dll
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.pdb
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.genruntimeconfig.cache
+C:\Projects\DotNet\Derby\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\ref\Dmm.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\appsettings.json
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.staticwebassets.runtime.json
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.exe
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.deps.json
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.runtimeconfig.json
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.pdb
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Azure.Core.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\EPPlus.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Humanizer.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Text.Json.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.AssemblyReference.cache
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfoInputs.cache
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfo.cs
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cache
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cs
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.sourcelink.json
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.Dmm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.build.Dmm.props
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dmm.props
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dmm.props
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\bundle\Dmm.styles.css
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\projectbundle\Dmm.bundle.scp.css
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.CopyComplete
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\refint\Dmm.dll
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.pdb
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.genruntimeconfig.cache
+C:\Projects\dotnet\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\ref\Dmm.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\appsettings.json
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.staticwebassets.runtime.json
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.exe
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.deps.json
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.runtimeconfig.json
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.pdb
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Azure.Core.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\EPPlus.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Humanizer.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.AssemblyReference.cache
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfoInputs.cache
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfo.cs
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.CoreCompileInputs.cache
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cache
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cs
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.sourcelink.json
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.Dmm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.build.Dmm.props
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dmm.props
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dmm.props
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\bundle\Dmm.styles.css
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\projectbundle\Dmm.bundle.scp.css
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.Up2Date
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\refint\Dmm.dll
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.pdb
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.genruntimeconfig.cache
+C:\Projects\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\ref\Dmm.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\appsettings.json
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Dmm.staticwebassets.runtime.json
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Dmm.exe
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Dmm.deps.json
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Dmm.runtimeconfig.json
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Dmm.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Dmm.pdb
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Azure.Core.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\EPPlus.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Humanizer.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.AssemblyReference.cache
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\Dmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfoInputs.cache
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfo.cs
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\Dmm.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cache
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cs
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\Dmm.sourcelink.json
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.Dmm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.build.Dmm.props
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dmm.props
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dmm.props
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\scopedcss\bundle\Dmm.styles.css
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\scopedcss\projectbundle\Dmm.bundle.scp.css
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.Up2Date
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\Dmm.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\refint\Dmm.dll
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\Dmm.pdb
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\Dmm.genruntimeconfig.cache
+C:\Projects\DotNet\Derby\Final Derby\Dmm\Dmm\obj\Debug\net8.0\ref\Dmm.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\appsettings.json
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.staticwebassets.runtime.json
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.exe
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.deps.json
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.runtimeconfig.json
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Dmm.pdb
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Azure.Core.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\EPPlus.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Humanizer.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Text.Json.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.AssemblyReference.cache
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfoInputs.cache
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfo.cs
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.CoreCompileInputs.cache
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cache
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cs
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.sourcelink.json
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.Dmm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.build.Dmm.props
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dmm.props
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dmm.props
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\bundle\Dmm.styles.css
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\scopedcss\projectbundle\Dmm.bundle.scp.css
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.Up2Date
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\refint\Dmm.dll
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.pdb
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\Dmm.genruntimeconfig.cache
+C:\Projects\Backup\JohnDevProjects\Dmm\Dmm\obj\Debug\net8.0\ref\Dmm.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\appsettings.json
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Dmm.staticwebassets.runtime.json
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Dmm.exe
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Dmm.deps.json
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Dmm.runtimeconfig.json
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Dmm.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Dmm.pdb
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Azure.Core.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\EPPlus.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Humanizer.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.AssemblyReference.cache
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\Dmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfoInputs.cache
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfo.cs
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\Dmm.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cache
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cs
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\Dmm.sourcelink.json
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.Dmm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.build.Dmm.props
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dmm.props
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dmm.props
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\scopedcss\bundle\Dmm.styles.css
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\scopedcss\projectbundle\Dmm.bundle.scp.css
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.Up2Date
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\Dmm.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\refint\Dmm.dll
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\Dmm.pdb
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\Dmm.genruntimeconfig.cache
+C:\Projects\DotNet\Derby\9 11 2024\Dmm\Dmm\obj\Debug\net8.0\ref\Dmm.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\appsettings.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Dmm.staticwebassets.runtime.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Dmm.exe
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Dmm.deps.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Dmm.runtimeconfig.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Dmm.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Dmm.pdb
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Azure.Core.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\EPPlus.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Humanizer.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.Text.Json.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.AssemblyReference.cache
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\Dmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfoInputs.cache
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfo.cs
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.CoreCompileInputs.cache
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\Dmm.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cache
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cs
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\Dmm.sourcelink.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.Dmm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.build.Dmm.props
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dmm.props
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dmm.props
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\scopedcss\bundle\Dmm.styles.css
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\scopedcss\projectbundle\Dmm.bundle.scp.css
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.Up2Date
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\Dmm.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\refint\Dmm.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\Dmm.pdb
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\Dmm.genruntimeconfig.cache
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Dmm\Dmm\obj\Debug\net8.0\ref\Dmm.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\appsettings.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Dmm.staticwebassets.runtime.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Dmm.exe
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Dmm.deps.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Dmm.runtimeconfig.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Dmm.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Dmm.pdb
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Azure.Core.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\EPPlus.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Humanizer.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.Text.Json.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.AssemblyReference.cache
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfoInputs.cache
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.AssemblyInfo.cs
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.CoreCompileInputs.cache
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cache
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.RazorAssemblyInfo.cs
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.Dmm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.build.Dmm.props
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dmm.props
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dmm.props
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\scopedcss\bundle\Dmm.styles.css
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\scopedcss\projectbundle\Dmm.bundle.scp.css
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.csproj.Up2Date
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\refint\Dmm.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.pdb
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.genruntimeconfig.cache
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\ref\Dmm.dll

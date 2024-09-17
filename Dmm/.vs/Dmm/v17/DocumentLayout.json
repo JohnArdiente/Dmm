@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Backup\\JohnDevProjects\\Dmm Additional\\Chairman\\Dmm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01851141-C4EA-44F4-BC40-37596BA1F46C}|Dmm\\Dmm.csproj|c:\\projects\\backup\\johndevprojects\\dmm additional\\chairman\\dmm\\dmm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01851141-C4EA-44F4-BC40-37596BA1F46C}|Dmm\\Dmm.csproj|solutionrelative:dmm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01851141-C4EA-44F4-BC40-37596BA1F46C}|Dmm\\Dmm.csproj|c:\\projects\\backup\\johndevprojects\\dmm additional\\chairman\\dmm\\dmm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01851141-C4EA-44F4-BC40-37596BA1F46C}|Dmm\\Dmm.csproj|solutionrelative:dmm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01851141-C4EA-44F4-BC40-37596BA1F46C}|Dmm\\Dmm.csproj|c:\\projects\\backup\\johndevprojects\\dmm additional\\chairman\\dmm\\dmm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01851141-C4EA-44F4-BC40-37596BA1F46C}|Dmm\\Dmm.csproj|solutionrelative:dmm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01851141-C4EA-44F4-BC40-37596BA1F46C}|Dmm\\Dmm.csproj|c:\\projects\\backup\\johndevprojects\\dmm additional\\chairman\\dmm\\dmm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01851141-C4EA-44F4-BC40-37596BA1F46C}|Dmm\\Dmm.csproj|solutionrelative:dmm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Backup\\JohnDevProjects\\Dmm Additional\\Chairman\\Dmm\\Dmm\\Program.cs",
+              "RelativeDocumentMoniker": "Dmm\\Program.cs",
+              "ToolTip": "C:\\Projects\\Backup\\JohnDevProjects\\Dmm Additional\\Chairman\\Dmm\\Dmm\\Program.cs",
+              "RelativeToolTip": "Dmm\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:32:02.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Backup\\JohnDevProjects\\Dmm Additional\\Chairman\\Dmm\\Dmm\\appsettings.json",
+              "RelativeDocumentMoniker": "Dmm\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Backup\\JohnDevProjects\\Dmm Additional\\Chairman\\Dmm\\Dmm\\appsettings.json",
+              "RelativeToolTip": "Dmm\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T08:31:51.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Backup\\JohnDevProjects\\Dmm Additional\\Chairman\\Dmm\\Dmm\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dmm\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\Backup\\JohnDevProjects\\Dmm Additional\\Chairman\\Dmm\\Dmm\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Dmm\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMFAAAAAAAAAAAAwBoFAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T08:30:32.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\Backup\\JohnDevProjects\\Dmm Additional\\Chairman\\Dmm\\Dmm\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Dmm\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\Backup\\JohnDevProjects\\Dmm Additional\\Chairman\\Dmm\\Dmm\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Dmm\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAIcDAAAAAAAAAAAAwKUDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:28:51.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

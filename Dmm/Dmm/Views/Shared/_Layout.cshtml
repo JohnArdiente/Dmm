@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Dmm</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <link rel="stylesheet" href="~/assets/plugins/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="~/assets/css/adminlte.min.css">
+    <link rel="stylesheet" href="~/assets/css/sweetalert2.min.css">
+    <link rel="icon" href="~/assets/img/oxkdbfgaming-logo.png" type="image/x-icon">
+</head>
+<body class="hold-transition layout-top-nav">
+    <div class="wrapper">
+
+        <nav class="main-header navbar navbar-expand-md navbar-light navbar-white">
+            <div class="container">
+
+                <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse order-3" id="navbarCollapse">
+                    <div class="col-sm-8 d-flex align-items-center">
+                        <div class="d-flex align-items-center">
+                            <img src="~/assets/img/oxkdbfgaming-logo.png" alt="Image Description" style="max-width: 320px; height: 100px;">
+                        </div>
+                        <div>
+                            <h1 class="m-0 ml-3" style="margin-left: 20px;">
+                                <span id="title">Loading...</span>
+                                <input type="text" id="titleInput" style="display: none;">
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <div class="content-wrapper">
+            <div class="content-header">
+                <div class="container">
+                    <div class="row mb-2">
+                        <div class="col-sm-6">
+                            <h1 class="m-0"> DERBY MATCH MAKER </h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <main role="main" class="content">
+                <div class="container-flui">
+                    @RenderBody()
+                </div>
+            </main>
+        </div>
+        <footer class="main-footer">
+            <strong>Copyright &copy; 2024 <a href="#">OX KBDF GAMING</a>.</strong> All rights reserved.
+        </footer>
+    </div>
+
+
+    <script src="~/assets/js/jquery-3.6.0.min.js"></script>
+    <script src="~/assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/js/adminlte.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            const $titleSpan = $('#title');
+            const $titleInput = $('#titleInput');
+
+            $.ajax({
+                url: '@Url.Action("GetTitle", "Home")',
+                type: 'GET',
+                success: function (response) {
+                    $titleSpan.text(response.title);
+                    $titleInput.val(response.title);
+                },
+                error: function (xhr, status, error) {
+                    console.error('Error fetching title:', error);
+                    $titleSpan.text('Error loading title');
+                }
+            });
+
+            $titleSpan.on('click', function () {
+                $titleSpan.hide();
+                $titleInput.show().focus();
+            });
+
+            $titleInput.on('blur', updateTitle);
+
+            $titleInput.on('keypress', function (e) {
+                if (e.which === 13) {
+                    updateTitle();
+                }
+            });
+
+            function updateTitle() {
+                const newTitle = $titleInput.val();
+                $titleSpan.text(newTitle).show();
+                $titleInput.hide();
+
+                $.ajax({
+                    url: '@Url.Action("UpdateTitle","Home")',
+                    type: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify({ title: newTitle }),
+                    success: function (response) {
+                        Swal.fire({
+                            title: 'Success',
+                            text: 'Title saved successfully.',
+                            icon: 'success',
+                            showConfirmButton: false,
+                            timer: 2000
+                        }).then(function () {
+                            location.reload();
+                        });
+                    },
+                    error: function () {
+                        Swal.fire({
+                            title: 'Error',
+                            text: 'An error occurred while processing the request.',
+                            icon: 'error',
+                            showConfirmButton: false,
+                            timer: 2000
+                        });
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>
