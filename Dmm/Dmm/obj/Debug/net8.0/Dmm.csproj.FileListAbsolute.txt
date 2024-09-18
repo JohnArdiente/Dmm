@@ -1461,3 +1461,4 @@ C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net
 C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.pdb
 C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.genruntimeconfig.cache
 C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\ref\Dmm.dll
+C:\Projects\Backup\JohnDevProjects\Dmm Additional\Chairman\Dmm\Dmm\obj\Debug\net8.0\Dmm.sourcelink.json

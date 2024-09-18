@@ -114,6 +114,7 @@ namespace Dmm.Controllers
         public IActionResult GetMatchedEntries()
         {
             var matchedEntries = _context.ManualMatches
+                .Where(x=>x.IsReset != true)
                 .Select(mm => new
                 {
                     mm.EntryId1,
@@ -143,6 +144,43 @@ namespace Dmm.Controllers
                 .ToList();
 
             return Json(matchedEntries);
+        }
+
+        [HttpPost]
+        public IActionResult ResetManualMatches([FromBody] List<ResetRequest> entries)
+        {
+            try
+            {
+                foreach (var entry in entries)
+                {
+                    var matchedEntries = _context.ManualMatches
+                        .Where(e => (e.EntryName1 == entry.EntryName1) ||
+                                    (e.EntryName2 == entry.EntryName2))
+                        .ToList();
+
+                    foreach (var matchedEntry in matchedEntries)
+                    {
+                        matchedEntry.IsReset = true;
+                        _context.Entry(matchedEntry).State = EntityState.Modified;
+                    }
+                }
+                _context.SaveChanges();
+
+                return Json(new { success = true });
+            }
+            catch (Exception ex)
+            {
+                // Log the exception and handle errors as needed
+                return Json(new { success = false, error = ex.Message });
+            }
+        }
+
+        public class ResetRequest
+        {
+            public string EntryName1 { get; set; }
+            public string Weight1 { get; set; }
+            public string EntryName2 { get; set; }
+            public string Weight2 { get; set; }
         }
 
 
@@ -505,7 +543,7 @@ namespace Dmm.Controllers
             }).ToList();
 
             return Json(matchess);
-        
+
         }
 
 
@@ -541,7 +579,7 @@ namespace Dmm.Controllers
                         WingBan = ed.WingBan
                     }).FirstOrDefault()
             })
-            .Where(x=>x.TokenId == latestToken.TokenId)
+            .Where(x => x.TokenId == latestToken.TokenId)
             .ToList();
 
             using (var package = new ExcelPackage())
@@ -633,6 +671,8 @@ namespace Dmm.Controllers
                 return File(stream, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", excelName);
             }
         }
+
+
 
 
 

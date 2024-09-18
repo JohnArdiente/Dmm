@@ -11,6 +11,7 @@ namespace Dmm.Models
         public int EntryId2 { get; set; }
         public string EntryName2 { get; set; }
         public decimal Weight2 { get; set; }
+        public bool IsReset { get; set; }
         public int TokenId { get; set; }
         public Token Token { get; set; }
     }
