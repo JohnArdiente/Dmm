@@ -1,4 +1,6 @@
 using Dmm.Models;
+using iTextSharp.text.pdf;
+using iTextSharp.text;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileSystemGlobbing;
@@ -9,6 +11,11 @@ using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
+using Font = iTextSharp.text.Font;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+using iTextSharp.text.pdf.draw;
+using Image = iTextSharp.text.Image;
+using Microsoft.AspNetCore.Hosting;
 
 namespace Dmm.Controllers
 {
@@ -17,11 +24,13 @@ namespace Dmm.Controllers
 		private readonly ILogger<HomeController> _logger;
 
 		private readonly AppDbContext _context;
+        private readonly IWebHostEnvironment _webHostEnvironment;
 
-        public HomeController(ILogger<HomeController> logger, AppDbContext context)
+        public HomeController(ILogger<HomeController> logger, AppDbContext context, IWebHostEnvironment webHostEnvironment)
         {
             _logger = logger;
             _context = context;
+            _webHostEnvironment = webHostEnvironment;
         }
 
         [HttpGet]
@@ -672,7 +681,98 @@ namespace Dmm.Controllers
             }
         }
 
+        public IActionResult GenerateManualSequence()
+        {
 
+            Font titleFont = FontFactory.GetFont(FontFactory.HELVETICA_BOLD, 14);
+            Font contentFont = FontFactory.GetFont(FontFactory.HELVETICA, 12);
+            Font tableFont = FontFactory.GetFont(FontFactory.HELVETICA, 10);
+            Font italicFont = FontFactory.GetFont(FontFactory.HELVETICA, 12, Font.ITALIC);
+
+            var matches = (from match in _context.ManualMatches
+                                join entry in _context.Entry
+                                on match.EntryName1 equals entry.EntryName
+                                select new
+                                {
+                                    match.EntryName1,
+                                    match.Weight1,
+                                    match.EntryName2,
+                                    match.Weight2,
+                                    OwnerName = entry.OwnerName
+                                }).ToList();
+
+            var groupedMatches = matches.GroupBy(m => new { m.EntryName1, m.OwnerName });
+
+
+            using (MemoryStream stream = new MemoryStream())
+            {
+                Document document = new Document(PageSize.A4, 25, 25, 30, 30);
+                PdfWriter writer = PdfWriter.GetInstance(document, stream);
+                document.Open();
+
+                string logoPath = Path.Combine(_webHostEnvironment.WebRootPath, "assets", "img", "oxkdbfgaming-logo.png");
+                Image logo = Image.GetInstance(logoPath);
+                logo.ScaleToFit(180f, 100f);
+                logo.Alignment = Element.ALIGN_LEFT;
+                document.Add(logo);
+
+                var titleParagraph = new Paragraph("Matches Per Owner", titleFont)
+                {
+                    Alignment = Element.ALIGN_CENTER
+                };
+                document.Add(titleParagraph);
+
+                LineSeparator lineBeforeTable = new LineSeparator(2f, 100f, BaseColor.BLACK, Element.ALIGN_CENTER, 1);
+                var lineBeforeParagraph = new Paragraph();
+                lineBeforeParagraph.Add(new Chunk(lineBeforeTable));
+                document.Add(lineBeforeParagraph);
+
+                BaseColor greenColor = new BaseColor(0, 128, 0);
+                BaseColor blueColor = new BaseColor(0, 0, 255);
+                int entryNumber = 1;
+
+                foreach (var group in groupedMatches)
+                {
+                    var entryNameHeading = new Paragraph(new Phrase(group.Key.EntryName1, new Font(titleFont.BaseFont, titleFont.Size, titleFont.Style, greenColor)));
+                    document.Add(entryNameHeading);
+
+                    var ownerNameParagraph = new Paragraph($"{entryNumber}. ", contentFont);
+                    ownerNameParagraph.Add(new Phrase(group.Key.OwnerName, new Font(italicFont.BaseFont, italicFont.Size, italicFont.Style, blueColor)));
+                    document.Add(ownerNameParagraph);
+
+                    PdfPTable table = new PdfPTable(3);
+                    table.WidthPercentage = 60;
+                    table.SetWidths(new float[] { 2, 2, 2 });
+
+                    table.AddCell(new PdfPCell(new Phrase("Weight", tableFont)) { HorizontalAlignment = Element.ALIGN_CENTER });
+                    table.AddCell(new PdfPCell(new Phrase("Weight", tableFont)) { HorizontalAlignment = Element.ALIGN_CENTER });
+                    table.AddCell(new PdfPCell(new Phrase("Entry Name", tableFont)) { HorizontalAlignment = Element.ALIGN_CENTER });
+
+                    document.Add(new Paragraph("\n"));
+
+
+                    foreach (var match in group)
+                    {
+                        table.AddCell(new PdfPCell(new Phrase(match.Weight1.ToString("0"), tableFont)) { HorizontalAlignment = Element.ALIGN_CENTER });
+                        table.AddCell(new PdfPCell(new Phrase(match.Weight2.ToString("0"), tableFont)) { HorizontalAlignment = Element.ALIGN_CENTER });
+                        table.AddCell(new PdfPCell(new Phrase(match.EntryName2, tableFont)) { HorizontalAlignment = Element.ALIGN_CENTER });
+                    }
+
+                    document.Add(table);
+
+                    LineSeparator line = new LineSeparator(2f, 100f, BaseColor.BLACK, Element.ALIGN_CENTER, 1);
+                    var lineParagraph = new Paragraph();
+                    lineParagraph.Add(new Chunk(line));
+                    document.Add(lineParagraph);
+
+                    entryNumber++;
+                }
+
+                document.Close();
+
+                return File(stream.ToArray(), "application/pdf", "Entries.pdf");
+            }
+        }
 
 
 

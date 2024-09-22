@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Backup\\JohnDevProjects\\Dmm Additional\\Chairman\\Dmm\\Dmm\\Dmm.csproj": {}
+    "C:\\Projects\\DotNet\\Dmm\\Dmm\\Dmm\\Dmm.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Backup\\JohnDevProjects\\Dmm Additional\\Chairman\\Dmm\\Dmm\\Dmm.csproj": {
+    "C:\\Projects\\DotNet\\Dmm\\Dmm\\Dmm\\Dmm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Backup\\JohnDevProjects\\Dmm Additional\\Chairman\\Dmm\\Dmm\\Dmm.csproj",
+        "projectUniqueName": "C:\\Projects\\DotNet\\Dmm\\Dmm\\Dmm\\Dmm.csproj",
         "projectName": "Dmm",
-        "projectPath": "C:\\Projects\\Backup\\JohnDevProjects\\Dmm Additional\\Chairman\\Dmm\\Dmm\\Dmm.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Backup\\JohnDevProjects\\Dmm Additional\\Chairman\\Dmm\\Dmm\\obj\\",
+        "projectPath": "C:\\Projects\\DotNet\\Dmm\\Dmm\\Dmm\\Dmm.csproj",
+        "packagesPath": "C:\\Users\\offic\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\DotNet\\Dmm\\Dmm\\Dmm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\offic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,6 +65,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.4, )"
             }
           },
           "imports": [
@@ -86,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
